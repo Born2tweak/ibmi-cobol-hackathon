@@ -1,5 +1,12 @@
 # ibmi-cobol-examples
 
+> **Building with IBM Bob hackathon work in progress.** This repository is a
+> [fork of Jack Woehr's examples](https://github.com/jwoehr/ibmi-cobol-examples).
+> The original examples and their history are preserved under the Apache 2.0
+> license. See [HACKATHON.md](HACKATHON.md) for the team's scope, current
+> verification status, and submission checklist. No hackathon fix or feature
+> has been selected or verified yet.
+
 Examples of programming COBOL on the [IBM i](https://www.ibm.com/products/ibm-i) platform using [IBM Bob](https://bob.ibm.com/) agentic code assist - **These are examples, and are not production code**. See LICENSE for limit of liability.
 
 ## Purpose of the project
